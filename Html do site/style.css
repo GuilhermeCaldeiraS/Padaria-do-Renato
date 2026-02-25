@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* personalização do header */
+header {
+    background-color: #463a2a;
+}
+
+/* personalização das sections */
+.section-01 {
+    background-color: #5c4b37;
+    padding: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.section-01 img {
+    width: 250px;
+}
+
+.section-01 button {
+    background-color:  #5c4b37;
+width: 100px;
+border: none;
+}
+
+
+.section-02 {
+    background-color: #dddd92;
+    padding: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.section-02 img {
+    width: 400px;
+}
+
+.section-02 button {
+    background-color: #dddd92 ;
+    width: 100px;
+    border: none;
+}
+
+
+
+.section-03 {
+    background-color: #dddd92;
+    width: 100px;
+    padding: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+footer {
+    background-color: #dddd92;
+}
