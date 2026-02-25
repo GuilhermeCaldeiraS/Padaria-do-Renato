@@ -49,14 +49,23 @@ border: none;
 
 
 .section-03 {
-    background-color: #dddd92;
-    width: 100px;
+    background-color:  #dddd92;
     padding: 80px;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
 }
 
+.section-03 img {
+    width: 400px;
+}
+
+
+.section-03 button {
+    background-color:  #dddd92 ;
+    width: 100px;
+    border: none;
+}
 
 footer {
     background-color: #dddd92;
