@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ body {
+    background-image: url(../Imagens/christinazetterberg-bread-8535650_1920.jpg);
+    background-attachment: fixed;
+ }
+
+
+ .tb {
+    background-color:  #fffedf;
+ }
+
+
+ /* personalização do footer */
+footer {
+    background-color: #2a2c31;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row-reverse;
+}
+
+footer h3 {
+    color: white;
+}
+
+footer img {
+    width: 100px;
+}

@@ -30,7 +30,7 @@ header img {
     background-color: #948c75;
     display: flex;
     align-items: center;
-    justify-content:space-evenly;
+    justify-content: space-evenly;
 }
 
 
@@ -41,6 +41,7 @@ section div button a {
     border: none;
     padding: 7px
 }
+
 .section-01 {
     background-color: #948c75;
     padding: 80px;
@@ -72,7 +73,7 @@ section div button a {
 
 
 .section-02 {
-    background-color: #5a2e2e;
+    background-color: #2a2c31;
     padding: 80px;
     display: flex;
     align-items: center;
@@ -157,7 +158,11 @@ section div button a {
 
 /* iframe */
 .iframe {
-    background-color: #fffedf;
+    background: linear-gradient(180deg, #0c16a364 8.33%, #99c9bd 100%), url(../Imagens/christinazetterberg-bread-8535650_1920.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
